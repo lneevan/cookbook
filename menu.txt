@@ -1,2 +1,4 @@
 Apple pie
 Dosa
+idly,puri
+wada
